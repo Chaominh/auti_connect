@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/garden"
+    tools:context=".FirstDay"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/playBtn"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/button"
+        android:fontFamily="@font/ptsansbold"
+        android:text="."
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/cat"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/cat" />
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:layout_alignRight="@+id/cat"
+        android:layout_alignBottom="@+id/cat"
+        android:layout_marginRight="-3dp"
+        android:layout_marginBottom="279dp"
+        android:rotation="2"
+        android:src="@drawable/img" />
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/cat"
+        android:layout_alignBottom="@+id/cat"
+        android:layout_marginRight="41dp"
+        android:layout_marginBottom="458dp"
+        android:fontFamily="@font/ptsansbold"
+        android:text="Xin chào, mình là Mèo Mi!"
+        android:textSize="20sp" />
+
+</RelativeLayout>

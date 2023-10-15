@@ -1,0 +1,10 @@
+﻿id,code,question,level,category
+1,A1,"Chào bạn mình là Mèo Mi, mình ở xứ sở Cầu Vồng. Mình sẽ đồng hành cùng với bạn nhé! Bạn tên gì nhỉ?",1,Phản hồi
+2,A2,Mình rất hạnh phúc khi được chơi cùng An. An có vui và hạnh phúc không?,1,Biểu hiện cảm xúc
+3,A3,"Mình rất thích ăn cá, bạn An thích gì nhỉ?",1,Phản hồi
+4,A4,Ngày mai An sẽ vào chơi với mình tiếp chứ?,1,Phản hồi
+10,B1,"Bây giờ chúng mình cùng chơi một trò chơi nha. Bạn làm theo Mi nha. Bạn hát cùng mình nha. ""An thật là dễ thương. An cùng vỗ tay với mình nha""",2,Bắt chước
+11,B2,"Bạn có thấy đói bụng chưa? Mi thấy đói bụng quá, bạn có thể lấy giúp mình con cá màu đỏ được không? Lấy giúp mình viên kẹo màu hồng nữa nhé?",2,Phản ứng thị giác
+12,B3,An đút mình ăn nha. Măm măm ngon quá,2,Sử dụng đồ vật
+13,B4,Giờ An và Mi cùng tô màu xanh cho bé khủng long đáng yêu này nha,2,Phản ứng thị giác
+14,B5,"Mình mang giày xong rồi, An dắt mình ra gặp bố mẹ An nha.",2,Tương tác
